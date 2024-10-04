@@ -1,2 +1,2 @@
-# ESN-anomaly-detection-using-deep-learning-
+# ESN-anomaly-detection-
 Echo state network can be advantageous while working with temporal data i.e time continuous data . It could be advantageous in multiple segments like it is helpful in training process ,as in ESN we only need to train the output weights or data as the reservoir remains fixed. While in other existing neural networks we need to train the output weights as well as the data through hidden layers. Also ESN helps us redusing the time complexity and we can achieve a beteer accuracy with it , SO I ve made an attempt to do so , to use ESN with this project of anomaly detection.
